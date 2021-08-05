@@ -1,0 +1,22 @@
+h2{
+	position: relative;
+    margin-top: 0px;
+    font-size: 30px;
+    font-family: 'roboto' sans-serif;
+    text-align: center;
+    color: white;  
+}
+.nav{
+    position: absolute;
+    width: 100%;
+
+}
+
+.nav a{
+    position: relative;
+    left: 45%;
+    top: 20px;
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
